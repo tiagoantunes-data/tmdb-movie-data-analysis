@@ -21,4 +21,7 @@ Pandas, Numpy and Matplotlib.
 - ## Main File
 
 - 'Investigate_a_Dataset-2.ipynb'
-  
+
+  ## Author
+
+  Tiago Antunes
